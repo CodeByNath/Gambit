@@ -439,5 +439,96 @@
         "timeType": "estimated"
       }
     ]
+  },
+  {
+    "id": "brimarvi-rosemarie-2026-11-21",
+    "name": "Brimarvi Rosemarie",
+    "weight": 59,
+    "races": [
+      {
+        "id": "brimarvi-rosemarie-2026-11-07-morp",
+        "date": "2026-11-07",
+        "track": "MORP",
+        "condition": "Good 3",
+        "distance": 1250,
+        "position": 1,
+        "fieldSize": 13,
+        "winningTime": 73.1,
+        "margin": 0,
+        "last600": null,
+        "seconds": 73.1,
+        "timeType": "estimated"
+      },
+      {
+        "id": "brimarvi-rosemarie-2026-10-17-morp",
+        "date": "2026-10-17",
+        "track": "MORP",
+        "condition": "Good 4",
+        "distance": 1200,
+        "position": 5,
+        "fieldSize": 11,
+        "winningTime": 69.47,
+        "margin": 2.5,
+        "last600": null,
+        "seconds": 69.895,
+        "timeType": "estimated"
+      },
+      {
+        "id": "brimarvi-rosemarie-2026-09-26-murr",
+        "date": "2026-09-26",
+        "track": "MURR",
+        "condition": "Good 4",
+        "distance": 1200,
+        "position": 2,
+        "fieldSize": 11,
+        "winningTime": 71.6,
+        "margin": 1.5,
+        "last600": 36.37,
+        "seconds": 71.855,
+        "timeType": "estimated"
+      },
+      {
+        "id": "brimarvi-rosemarie-2026-09-12-morp",
+        "date": "2026-09-12",
+        "track": "MORP",
+        "condition": "Good 4",
+        "distance": 1050,
+        "position": 8,
+        "fieldSize": 14,
+        "winningTime": 61.74,
+        "margin": 3.3,
+        "last600": 34.59,
+        "seconds": 62.301,
+        "timeType": "estimated"
+      },
+      {
+        "id": "brimarvi-rosemarie-2026-08-29-morp",
+        "date": "2026-08-29",
+        "track": "MORP",
+        "condition": "Soft 7",
+        "distance": 1100,
+        "position": 2,
+        "fieldSize": 14,
+        "winningTime": 67.1,
+        "margin": 0.2,
+        "last600": 36.8,
+        "seconds": 67.134,
+        "timeType": "estimated"
+      },
+      {
+        "id": "brimarvi-rosemarie-2026-08-01-morp",
+        "date": "2026-08-01",
+        "track": "MORP",
+        "condition": "Soft 7",
+        "distance": 1250,
+        "position": 4,
+        "fieldSize": 12,
+        "winningTime": 77.43,
+        "margin": 0.9,
+        "last600": null,
+        "seconds": 77.583,
+        "timeType": "estimated"
+      }
+    ]
   }
 ]
