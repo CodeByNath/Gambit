@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "id": "4b7f1a24-aa13-4c6c-9032-f323c1c70694",
+    "name": "Canny Miss",
+    "weight": 57.5,
+    "races": [
+      {
+        "id": "a028bf7c-07f9-4628-9c4b-d035285fb582",
+        "date": "2026-11-07",
+        "track": "MORP",
+        "condition": "Good 3",
+        "distance": 1250,
+        "position": 4,
+        "fieldSize": 13,
+        "winningTime": 73.1,
+        "margin": 0.9,
+        "last600": null,
+        "seconds": 73.253,
+        "timeType": "estimated"
+      },
+      {
+        "id": "canny-miss-2026-10-24-morp",
+        "date": "2026-10-24",
+        "track": "MORP",
+        "condition": "Soft 5",
+        "distance": 1200,
+        "position": 1,
+        "fieldSize": 11,
+        "winningTime": 70.06,
+        "margin": 0,
+        "last600": 33.83,
+        "seconds": 70.06,
+        "timeType": "estimated"
+      },
+      {
+        "id": "canny-miss-2026-10-03-murr",
+        "date": "2026-10-03",
+        "track": "MURR",
+        "condition": "Soft 7",
+        "distance": 1100,
+        "position": 4,
+        "fieldSize": 10,
+        "winningTime": 68.1,
+        "margin": 1.4,
+        "last600": 37.71,
+        "seconds": 68.338,
+        "timeType": "estimated"
+      },
+      {
+        "id": "canny-miss-2026-09-16-bala",
+        "date": "2026-09-16",
+        "track": "BALA",
+        "condition": "Good 4",
+        "distance": 1050,
+        "position": 1,
+        "fieldSize": 14,
+        "winningTime": 60.48,
+        "margin": 0,
+        "last600": 34.07,
+        "seconds": 60.48,
+        "timeType": "estimated"
+      },
+      {
+        "id": "canny-miss-2026-06-12-bair",
+        "date": "2026-06-12",
+        "track": "BAIR",
+        "condition": "Heavy 8",
+        "distance": 1000,
+        "position": 2,
+        "fieldSize": 7,
+        "winningTime": 59.2,
+        "margin": 3.3,
+        "last600": 34.58,
+        "seconds": 59.761,
+        "timeType": "estimated"
+      }
+    ]
+  }
+]
