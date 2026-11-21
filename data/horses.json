@@ -1076,5 +1076,96 @@
         "timeType": "estimated"
       }
     ]
+  },
+  {
+    "id": "beyond-mysti-2026-11-21",
+    "name": "Beyond Mysti",
+    "weight": 58.5,
+    "races": [
+      {
+        "id": "beyond-mysti-2026-10-31-morp",
+        "date": "2026-10-31",
+        "track": "MORP",
+        "condition": "Good 4",
+        "distance": 1200,
+        "position": 1,
+        "fieldSize": 9,
+        "winningTime": 69.85,
+        "margin": 0,
+        "last600": 35.25,
+        "seconds": 69.85,
+        "timeType": "estimated"
+      },
+      {
+        "id": "beyond-mysti-2026-10-10-morp",
+        "date": "2026-10-10",
+        "track": "MORP",
+        "condition": "Good 3",
+        "distance": 1200,
+        "position": 4,
+        "fieldSize": 14,
+        "winningTime": 69.85,
+        "margin": 1.4,
+        "last600": null,
+        "seconds": 70.088,
+        "timeType": "estimated"
+      },
+      {
+        "id": "beyond-mysti-2026-05-23-murr",
+        "date": "2026-05-23",
+        "track": "MURR",
+        "condition": "Soft 5",
+        "distance": 1100,
+        "position": 7,
+        "fieldSize": 12,
+        "winningTime": 63.59,
+        "margin": 6.7,
+        "last600": 34.05,
+        "seconds": 64.729,
+        "timeType": "estimated"
+      },
+      {
+        "id": "beyond-mysti-2026-05-02-morp",
+        "date": "2026-05-02",
+        "track": "MORP",
+        "condition": "Soft 5",
+        "distance": 1050,
+        "position": 1,
+        "fieldSize": 11,
+        "winningTime": 61.65,
+        "margin": 0,
+        "last600": null,
+        "seconds": 61.65,
+        "timeType": "estimated"
+      },
+      {
+        "id": "beyond-mysti-2026-04-11-morp",
+        "date": "2026-04-11",
+        "track": "MORP",
+        "condition": "Soft 6",
+        "distance": 1100,
+        "position": 9,
+        "fieldSize": 12,
+        "winningTime": 65.65,
+        "margin": 4.5,
+        "last600": null,
+        "seconds": 66.415,
+        "timeType": "estimated"
+      },
+      {
+        "id": "beyond-mysti-2026-03-21-morp",
+        "date": "2026-03-21",
+        "track": "MORP",
+        "condition": "Good 4",
+        "distance": 1000,
+        "position": 9,
+        "fieldSize": 12,
+        "winningTime": 58.75,
+        "margin": 4.2,
+        "last600": null,
+        "seconds": 59.464,
+        "timeType": "estimated"
+      }
+    ]
   }
 ]
