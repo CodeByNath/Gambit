@@ -621,5 +621,96 @@
         "timeType": "estimated"
       }
     ]
+  },
+  {
+    "id": "xtramagic-2026-11-21",
+    "name": "Xtramagic",
+    "weight": 56,
+    "races": [
+      {
+        "id": "xtramagic-2026-10-18-hors",
+        "date": "2026-10-18",
+        "track": "HORS",
+        "condition": "Good 4",
+        "distance": 1200,
+        "position": 6,
+        "fieldSize": 9,
+        "winningTime": 70.72,
+        "margin": 6.2,
+        "last600": 34.67,
+        "seconds": 71.774,
+        "timeType": "estimated"
+      },
+      {
+        "id": "xtramagic-2026-10-03-murr",
+        "date": "2026-10-03",
+        "track": "MURR",
+        "condition": "Soft 7",
+        "distance": 1100,
+        "position": 1,
+        "fieldSize": 10,
+        "winningTime": 68.1,
+        "margin": 0,
+        "last600": 37.71,
+        "seconds": 68.1,
+        "timeType": "estimated"
+      },
+      {
+        "id": "xtramagic-2026-09-20-bend",
+        "date": "2026-09-20",
+        "track": "BEND",
+        "condition": "Good 3",
+        "distance": 1100,
+        "position": 5,
+        "fieldSize": 8,
+        "winningTime": 63.37,
+        "margin": 3.2,
+        "last600": 34.02,
+        "seconds": 63.914,
+        "timeType": "estimated"
+      },
+      {
+        "id": "xtramagic-2026-09-02-murr",
+        "date": "2026-09-02",
+        "track": "MURR",
+        "condition": "Soft 5",
+        "distance": 1000,
+        "position": 2,
+        "fieldSize": 13,
+        "winningTime": 60.25,
+        "margin": 0.1,
+        "last600": 36,
+        "seconds": 60.267,
+        "timeType": "estimated"
+      },
+      {
+        "id": "xtramagic-2026-07-31-geel",
+        "date": "2026-07-31",
+        "track": "GEEL",
+        "condition": "Soft 7",
+        "distance": 1200,
+        "position": 6,
+        "fieldSize": 10,
+        "winningTime": 74.05,
+        "margin": 5,
+        "last600": 36.4,
+        "seconds": 74.9,
+        "timeType": "estimated"
+      },
+      {
+        "id": "xtramagic-2026-07-17-murr",
+        "date": "2026-07-17",
+        "track": "MURR",
+        "condition": "Soft 6",
+        "distance": 1100,
+        "position": 3,
+        "fieldSize": 12,
+        "winningTime": 67.23,
+        "margin": 0.5,
+        "last600": 37.03,
+        "seconds": 67.315,
+        "timeType": "estimated"
+      }
+    ]
   }
 ]
