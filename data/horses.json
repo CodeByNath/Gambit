@@ -348,5 +348,96 @@
         "timeType": "estimated"
       }
     ]
+  },
+  {
+    "id": "star-sirius-2026-11-21",
+    "name": "Star Sirius",
+    "weight": 60,
+    "races": [
+      {
+        "id": "star-sirius-2026-11-07-morp",
+        "date": "2026-11-07",
+        "track": "MORP",
+        "condition": "Good 3",
+        "distance": 1250,
+        "position": 9,
+        "fieldSize": 13,
+        "winningTime": 73.1,
+        "margin": 3.4,
+        "last600": null,
+        "seconds": 73.678,
+        "timeType": "estimated"
+      },
+      {
+        "id": "star-sirius-2026-10-24-morp",
+        "date": "2026-10-24",
+        "track": "MORP",
+        "condition": "Soft 5",
+        "distance": 1200,
+        "position": 5,
+        "fieldSize": 9,
+        "winningTime": 69.76,
+        "margin": 3.1,
+        "last600": 33.68,
+        "seconds": 70.287,
+        "timeType": "estimated"
+      },
+      {
+        "id": "star-sirius-2026-09-28-morp-trial",
+        "date": "2026-09-28",
+        "track": "MORP (Trial)",
+        "condition": "Good 4",
+        "distance": 1000,
+        "position": 4,
+        "fieldSize": 9,
+        "winningTime": 58.93,
+        "margin": 3.6,
+        "last600": null,
+        "seconds": 59.542,
+        "timeType": "estimated"
+      },
+      {
+        "id": "star-sirius-2026-06-13-murr",
+        "date": "2026-06-13",
+        "track": "MURR",
+        "condition": "Soft 6",
+        "distance": 1400,
+        "position": 5,
+        "fieldSize": 12,
+        "winningTime": 87.76,
+        "margin": 3.2,
+        "last600": 37.28,
+        "seconds": 88.304,
+        "timeType": "estimated"
+      },
+      {
+        "id": "star-sirius-2026-05-23-murr",
+        "date": "2026-05-23",
+        "track": "MURR",
+        "condition": "Soft 5",
+        "distance": 1200,
+        "position": 5,
+        "fieldSize": 11,
+        "winningTime": 70.08,
+        "margin": 3.6,
+        "last600": 34.15,
+        "seconds": 70.692,
+        "timeType": "estimated"
+      },
+      {
+        "id": "star-sirius-2026-04-25-flem",
+        "date": "2026-04-25",
+        "track": "FLEM",
+        "condition": "Good 3",
+        "distance": 1400,
+        "position": 9,
+        "fieldSize": 15,
+        "winningTime": 82.96,
+        "margin": 3.9,
+        "last600": 33.61,
+        "seconds": 83.623,
+        "timeType": "estimated"
+      }
+    ]
   }
 ]
