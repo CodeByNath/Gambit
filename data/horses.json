@@ -985,5 +985,96 @@
         "timeType": "estimated"
       }
     ]
+  },
+  {
+    "id": "megs-magic-2026-11-21",
+    "name": "Meg's Magic",
+    "weight": 57,
+    "races": [
+      {
+        "id": "megs-magic-2026-11-07-morp",
+        "date": "2026-11-07",
+        "track": "MORP",
+        "condition": "Good 3",
+        "distance": 1250,
+        "position": 3,
+        "fieldSize": 13,
+        "winningTime": 73.1,
+        "margin": 0.3,
+        "last600": null,
+        "seconds": 73.151,
+        "timeType": "estimated"
+      },
+      {
+        "id": "megs-magic-2026-10-17-morp",
+        "date": "2026-10-17",
+        "track": "MORP",
+        "condition": "Good 4",
+        "distance": 1200,
+        "position": 2,
+        "fieldSize": 11,
+        "winningTime": 69.47,
+        "margin": 0.8,
+        "last600": null,
+        "seconds": 69.606,
+        "timeType": "estimated"
+      },
+      {
+        "id": "megs-magic-2026-09-26-murr",
+        "date": "2026-09-26",
+        "track": "MURR",
+        "condition": "Good 4",
+        "distance": 1100,
+        "position": 4,
+        "fieldSize": 12,
+        "winningTime": 63.72,
+        "margin": 0.8,
+        "last600": 35.07,
+        "seconds": 63.856,
+        "timeType": "estimated"
+      },
+      {
+        "id": "megs-magic-2026-08-15-morp",
+        "date": "2026-08-15",
+        "track": "MORP",
+        "condition": "Heavy 8",
+        "distance": 1250,
+        "position": 2,
+        "fieldSize": 13,
+        "winningTime": 78.3,
+        "margin": 0.1,
+        "last600": 38.54,
+        "seconds": 78.317,
+        "timeType": "estimated"
+      },
+      {
+        "id": "megs-magic-2026-07-22-murr",
+        "date": "2026-07-22",
+        "track": "MURR",
+        "condition": "Soft 5",
+        "distance": 1200,
+        "position": 1,
+        "fieldSize": 10,
+        "winningTime": 73.33,
+        "margin": 0,
+        "last600": 37.1,
+        "seconds": 73.33,
+        "timeType": "estimated"
+      },
+      {
+        "id": "megs-magic-2026-07-16-hali-trial",
+        "date": "2026-07-16",
+        "track": "HALI (Trial)",
+        "condition": "Soft 6",
+        "distance": 1000,
+        "position": 2,
+        "fieldSize": 5,
+        "winningTime": 61.54,
+        "margin": 0.1,
+        "last600": null,
+        "seconds": 61.557,
+        "timeType": "estimated"
+      }
+    ]
   }
 ]
