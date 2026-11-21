@@ -803,5 +803,96 @@
         "timeType": "estimated"
       }
     ]
+  },
+  {
+    "id": "make-me-a-match-2026-11-21",
+    "name": "Make Me A Match",
+    "weight": 54,
+    "races": [
+      {
+        "id": "make-me-a-match-2026-11-12-oakb-trial",
+        "date": "2026-11-12",
+        "track": "OAKB (Trial)",
+        "condition": "Good 4",
+        "distance": 1050,
+        "position": 2,
+        "fieldSize": 8,
+        "winningTime": 63.32,
+        "margin": 0.8,
+        "last600": null,
+        "seconds": 63.456,
+        "timeType": "estimated"
+      },
+      {
+        "id": "make-me-a-match-2026-10-23-gawl",
+        "date": "2026-10-23",
+        "track": "GAWL",
+        "condition": "Good 4",
+        "distance": 1200,
+        "position": 2,
+        "fieldSize": 9,
+        "winningTime": 71.31,
+        "margin": 0.3,
+        "last600": 34.88,
+        "seconds": 71.361,
+        "timeType": "estimated"
+      },
+      {
+        "id": "make-me-a-match-2026-09-27-stra",
+        "date": "2026-09-27",
+        "track": "STRA",
+        "condition": "Soft 5",
+        "distance": 1200,
+        "position": 1,
+        "fieldSize": 14,
+        "winningTime": 75.52,
+        "margin": 0,
+        "last600": 37.89,
+        "seconds": 75.52,
+        "timeType": "estimated"
+      },
+      {
+        "id": "make-me-a-match-2026-09-05-morp",
+        "date": "2026-09-05",
+        "track": "MORP",
+        "condition": "Soft 6",
+        "distance": 1250,
+        "position": 6,
+        "fieldSize": 11,
+        "winningTime": 76.92,
+        "margin": 4.6,
+        "last600": 37.42,
+        "seconds": 77.702,
+        "timeType": "estimated"
+      },
+      {
+        "id": "make-me-a-match-2026-08-27-hali-trial",
+        "date": "2026-08-27",
+        "track": "HALI (Trial)",
+        "condition": "Soft 6",
+        "distance": 1000,
+        "position": 1,
+        "fieldSize": 7,
+        "winningTime": 63.68,
+        "margin": 0,
+        "last600": null,
+        "seconds": 63.68,
+        "timeType": "estimated"
+      },
+      {
+        "id": "make-me-a-match-2026-07-16-hali-trial",
+        "date": "2026-07-16",
+        "track": "HALI (Trial)",
+        "condition": "Soft 6",
+        "distance": 1000,
+        "position": 4,
+        "fieldSize": 6,
+        "winningTime": 62.29,
+        "margin": 2.9,
+        "last600": null,
+        "seconds": 62.783,
+        "timeType": "estimated"
+      }
+    ]
   }
 ]
