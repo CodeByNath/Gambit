@@ -894,5 +894,96 @@
         "timeType": "estimated"
       }
     ]
+  },
+  {
+    "id": "sensational-secret-2026-11-21",
+    "name": "Sensational Secret",
+    "weight": 56.5,
+    "races": [
+      {
+        "id": "sensational-secret-2026-10-17-morp",
+        "date": "2026-10-17",
+        "track": "MORP",
+        "condition": "Good 4",
+        "distance": 1200,
+        "position": 1,
+        "fieldSize": 11,
+        "winningTime": 69.47,
+        "margin": 0,
+        "last600": null,
+        "seconds": 69.47,
+        "timeType": "estimated"
+      },
+      {
+        "id": "sensational-secret-2026-09-05-morp",
+        "date": "2026-09-05",
+        "track": "MORP",
+        "condition": "Soft 6",
+        "distance": 1250,
+        "position": 8,
+        "fieldSize": 12,
+        "winningTime": 77.3,
+        "margin": 8,
+        "last600": 36.85,
+        "seconds": 78.66,
+        "timeType": "estimated"
+      },
+      {
+        "id": "sensational-secret-2026-08-22-morp",
+        "date": "2026-08-22",
+        "track": "MORP",
+        "condition": "Soft 7",
+        "distance": 1250,
+        "position": 3,
+        "fieldSize": 12,
+        "winningTime": 78.52,
+        "margin": 1.3,
+        "last600": null,
+        "seconds": 78.741,
+        "timeType": "estimated"
+      },
+      {
+        "id": "sensational-secret-2026-08-05-murr",
+        "date": "2026-08-05",
+        "track": "MURR",
+        "condition": "Soft 5",
+        "distance": 1000,
+        "position": 1,
+        "fieldSize": 11,
+        "winningTime": 56.98,
+        "margin": 0,
+        "last600": 33.58,
+        "seconds": 56.98,
+        "timeType": "estimated"
+      },
+      {
+        "id": "sensational-secret-2026-07-18-morp",
+        "date": "2026-07-18",
+        "track": "MORP",
+        "condition": "Soft 7",
+        "distance": 1000,
+        "position": 2,
+        "fieldSize": 8,
+        "winningTime": 59.89,
+        "margin": 0.8,
+        "last600": 35.17,
+        "seconds": 60.026,
+        "timeType": "estimated"
+      },
+      {
+        "id": "sensational-secret-2025-11-19-murr",
+        "date": "2025-11-19",
+        "track": "MURR",
+        "condition": "Good 3",
+        "distance": 1200,
+        "position": 7,
+        "fieldSize": 11,
+        "winningTime": 74.35,
+        "margin": 8.2,
+        "last600": null,
+        "seconds": 75.744,
+        "timeType": "estimated"
+      }
+    ]
   }
 ]
