@@ -530,5 +530,96 @@
         "timeType": "estimated"
       }
     ]
+  },
+  {
+    "id": "koratora-2026-11-21",
+    "name": "Koratora",
+    "weight": 55.5,
+    "races": [
+      {
+        "id": "koratora-2026-11-03-morp",
+        "date": "2026-11-03",
+        "track": "MORP",
+        "condition": "Good 4",
+        "distance": 1200,
+        "position": 1,
+        "fieldSize": 9,
+        "winningTime": 70.04,
+        "margin": 0,
+        "last600": null,
+        "seconds": 70.04,
+        "timeType": "estimated"
+      },
+      {
+        "id": "koratora-2026-10-31-morp",
+        "date": "2026-10-31",
+        "track": "MORP",
+        "condition": "Good 4",
+        "distance": 1200,
+        "position": 4,
+        "fieldSize": 9,
+        "winningTime": 69.85,
+        "margin": 2.6,
+        "last600": 35.25,
+        "seconds": 70.292,
+        "timeType": "estimated"
+      },
+      {
+        "id": "koratora-2026-10-21-stra",
+        "date": "2026-10-21",
+        "track": "STRA",
+        "condition": "Soft 5",
+        "distance": 1200,
+        "position": 2,
+        "fieldSize": 11,
+        "winningTime": 74.76,
+        "margin": 0.4,
+        "last600": 36.65,
+        "seconds": 74.828,
+        "timeType": "estimated"
+      },
+      {
+        "id": "koratora-2026-10-03-jame",
+        "date": "2026-10-03",
+        "track": "JAME",
+        "condition": "Good 3",
+        "distance": 1340,
+        "position": 2,
+        "fieldSize": 5,
+        "winningTime": 76.99,
+        "margin": 0.2,
+        "last600": null,
+        "seconds": 77.024,
+        "timeType": "estimated"
+      },
+      {
+        "id": "koratora-2026-09-16-bala",
+        "date": "2026-09-16",
+        "track": "BALA",
+        "condition": "Good 4",
+        "distance": 1400,
+        "position": 3,
+        "fieldSize": 12,
+        "winningTime": 83.98,
+        "margin": 5.3,
+        "last600": 36.08,
+        "seconds": 84.881,
+        "timeType": "estimated"
+      },
+      {
+        "id": "koratora-2026-08-30-stra",
+        "date": "2026-08-30",
+        "track": "STRA",
+        "condition": "Soft 7",
+        "distance": 1350,
+        "position": 8,
+        "fieldSize": 10,
+        "winningTime": 87.11,
+        "margin": 6.1,
+        "last600": 39.86,
+        "seconds": 88.147,
+        "timeType": "estimated"
+      }
+    ]
   }
 ]
