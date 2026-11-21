@@ -75,5 +75,96 @@
         "timeType": "estimated"
       }
     ]
+  },
+  {
+    "id": "one-kind-2026-11-21",
+    "name": "One Kind",
+    "weight": 54,
+    "races": [
+      {
+        "id": "one-kind-2026-11-15-stra",
+        "date": "2026-11-15",
+        "track": "STRA",
+        "condition": "Soft 5",
+        "distance": 1100,
+        "position": 6,
+        "fieldSize": 9,
+        "winningTime": 69.95,
+        "margin": 3.3,
+        "last600": 37.28,
+        "seconds": 70.511,
+        "timeType": "estimated"
+      },
+      {
+        "id": "one-kind-2026-10-31-morp",
+        "date": "2026-10-31",
+        "track": "MORP",
+        "condition": "Good 4",
+        "distance": 1200,
+        "position": 3,
+        "fieldSize": 9,
+        "winningTime": 69.85,
+        "margin": 2.2,
+        "last600": 35.25,
+        "seconds": 70.224,
+        "timeType": "estimated"
+      },
+      {
+        "id": "one-kind-2026-10-23-gawl",
+        "date": "2026-10-23",
+        "track": "GAWL",
+        "condition": "Good 4",
+        "distance": 1200,
+        "position": 7,
+        "fieldSize": 9,
+        "winningTime": 71.31,
+        "margin": 3.5,
+        "last600": 34.88,
+        "seconds": 71.905,
+        "timeType": "estimated"
+      },
+      {
+        "id": "one-kind-2026-10-17-morp",
+        "date": "2026-10-17",
+        "track": "MORP",
+        "condition": "Good 4",
+        "distance": 1200,
+        "position": 10,
+        "fieldSize": 11,
+        "winningTime": 69.47,
+        "margin": 5.8,
+        "last600": null,
+        "seconds": 70.456,
+        "timeType": "estimated"
+      },
+      {
+        "id": "one-kind-2026-10-10-morp",
+        "date": "2026-10-10",
+        "track": "MORP",
+        "condition": "Good 3",
+        "distance": 1200,
+        "position": 6,
+        "fieldSize": 14,
+        "winningTime": 69.85,
+        "margin": 1.9,
+        "last600": null,
+        "seconds": 70.173,
+        "timeType": "estimated"
+      },
+      {
+        "id": "one-kind-2026-09-23-gawl",
+        "date": "2026-09-23",
+        "track": "GAWL",
+        "condition": "Good 4",
+        "distance": 1100,
+        "position": 3,
+        "fieldSize": 10,
+        "winningTime": 64.32,
+        "margin": 2.6,
+        "last600": 34.4,
+        "seconds": 64.762,
+        "timeType": "estimated"
+      }
+    ]
   }
 ]
