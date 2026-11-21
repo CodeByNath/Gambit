@@ -257,5 +257,96 @@
         "timeType": "estimated"
       }
     ]
+  },
+  {
+    "id": "whoops-a-daisy-2026-11-21",
+    "name": "Whoops A Daisy",
+    "weight": 54,
+    "races": [
+      {
+        "id": "whoops-a-daisy-2026-11-15-stra",
+        "date": "2026-11-15",
+        "track": "STRA",
+        "condition": "Soft 5",
+        "distance": 1100,
+        "position": 2,
+        "fieldSize": 9,
+        "winningTime": 69.95,
+        "margin": 0.8,
+        "last600": 37.28,
+        "seconds": 70.086,
+        "timeType": "estimated"
+      },
+      {
+        "id": "whoops-a-daisy-2026-11-05-gawl",
+        "date": "2026-11-05",
+        "track": "GAWL",
+        "condition": "Good 4",
+        "distance": 1100,
+        "position": 2,
+        "fieldSize": 9,
+        "winningTime": 65.13,
+        "margin": 0.2,
+        "last600": 34.51,
+        "seconds": 65.164,
+        "timeType": "estimated"
+      },
+      {
+        "id": "whoops-a-daisy-2026-10-17-morp",
+        "date": "2026-10-17",
+        "track": "MORP",
+        "condition": "Good 4",
+        "distance": 1200,
+        "position": 6,
+        "fieldSize": 11,
+        "winningTime": 69.47,
+        "margin": 2.8,
+        "last600": null,
+        "seconds": 69.946,
+        "timeType": "estimated"
+      },
+      {
+        "id": "whoops-a-daisy-2026-10-03-murr",
+        "date": "2026-10-03",
+        "track": "MURR",
+        "condition": "Soft 7",
+        "distance": 1100,
+        "position": 5,
+        "fieldSize": 10,
+        "winningTime": 68.1,
+        "margin": 2.8,
+        "last600": 37.71,
+        "seconds": 68.576,
+        "timeType": "estimated"
+      },
+      {
+        "id": "whoops-a-daisy-2026-09-23-gawl",
+        "date": "2026-09-23",
+        "track": "GAWL",
+        "condition": "Good 4",
+        "distance": 1100,
+        "position": 2,
+        "fieldSize": 10,
+        "winningTime": 64.32,
+        "margin": 0.8,
+        "last600": 34.4,
+        "seconds": 64.456,
+        "timeType": "estimated"
+      },
+      {
+        "id": "whoops-a-daisy-2026-09-12-morp",
+        "date": "2026-09-12",
+        "track": "MORP",
+        "condition": "Good 4",
+        "distance": 1050,
+        "position": 5,
+        "fieldSize": 10,
+        "winningTime": 61.33,
+        "margin": 1.8,
+        "last600": 34.3,
+        "seconds": 61.636,
+        "timeType": "estimated"
+      }
+    ]
   }
 ]
